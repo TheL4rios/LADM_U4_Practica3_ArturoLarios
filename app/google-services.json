@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "792774665621",
+    "firebase_url": "https://fir-services-e1af3.firebaseio.com",
+    "project_id": "fir-services-e1af3",
+    "storage_bucket": "fir-services-e1af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792774665621:android:08daafb7498ead4ddd429c",
+        "android_client_info": {
+          "package_name": "com.thelarios.firebaseservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodD4kipzRwq9hw1rwrX3-7p6g-WPslwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792774665621:android:ddc115b060b97755dd429c",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica2_arturolarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodD4kipzRwq9hw1rwrX3-7p6g-WPslwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792774665621:android:ccc8b3095f8fa4d4dd429c",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_arturolarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodD4kipzRwq9hw1rwrX3-7p6g-WPslwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792774665621-l07qlqjsg7qa16e2k84ckbu3bsovftgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
